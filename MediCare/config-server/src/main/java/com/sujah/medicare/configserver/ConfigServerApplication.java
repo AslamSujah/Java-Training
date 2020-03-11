@@ -1,4 +1,4 @@
-package com.sujah.rentcloud.configserver;
+package com.sujah.medicare.configserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
